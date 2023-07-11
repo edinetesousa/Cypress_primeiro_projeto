@@ -1,0 +1,23 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edinetesousa/Cypress_Alura.git"
+  },
+  "author": "Edinete Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edinetesousa/Cypress_Alura/issues"
+  },
+  "homepage": "https://github.com/edinetesousa/Cypress_Alura#readme",
+  "devDependencies": {
+    "cypress": "^12.16.0",
+    "mochawesome": "^7.1.3"
+  }
+}
